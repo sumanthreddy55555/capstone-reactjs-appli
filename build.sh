@@ -1,3 +1,3 @@
 #!/bin/bash
-docker build -t $DOCKER_USERNAME/prod .
-#docker tag reactjsimagecapstone $DOCKER_USERNAME/prod
+docker build -t prod .
+docker tag prod sumanthreddy55555/prod
