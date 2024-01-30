@@ -1,3 +1,3 @@
 #!/bin/bash
 docker build -t reactjsimagecapstone .
-docker tag reactjs $DOCKER_BREACTJS_IMAGE
+docker tag reactjsimagecapstone sumanthreddy55555/dev
